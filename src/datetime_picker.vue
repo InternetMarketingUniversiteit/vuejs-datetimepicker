@@ -295,7 +295,7 @@ export default {
         this.periodStyle = 24;
         this.period = null;
       } else {
-        this.periodStyle = 12;
+        this.periodStyle = 24;
       }
     },
     setDate () {
